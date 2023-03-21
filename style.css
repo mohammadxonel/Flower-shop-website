@@ -147,3 +147,13 @@ header .fa-bars{
     padding: 1rem 0;
     line-height: 1.5;
 }
+
+.about .row{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    padding: 2rem 0;
+    padding-bottom: 3rem;
+}
+
