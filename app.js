@@ -8,7 +8,7 @@ document.querySelector('#close').onclick = () =>{
     navbar.classList.remove('active');
 }
 
-window.onscroll = () =>{
+window.onscroll = () =>{ 
     navbar.classList.remove('active');
 
     if(window.scrollY > 100){
